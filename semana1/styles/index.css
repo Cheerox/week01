@@ -1,7 +1,7 @@
-*{
-    text-align: center;
-}
+
 .titulo {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     background-color: red;
     text-align: center;
     font-size: 100px;
@@ -9,8 +9,57 @@
     
 }
 
+.sub-titulo-2{
+    text-align: center;
+    text-decoration: underline;
+    color: darkgrey;
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
+
+
 .sub-titulo{
+    margin: 0px 0px 0px 0px;
     background-color: red;
     font-size: 30px;
     color: white;
+    text-align: center;
+}
+
+.lista-contenedora{
+    background-color: #8de8fc;
+    border: 15px;
+    border-style: ridge;
+    border-color: burlywood;
+    border-radius: 20px;
+}
+
+
+#lista-1{
+    font-size: 40px;
+    text-decoration: underline;
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#lista-2{
+    font-size: 40px;
+    text-decoration: underline;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lista-3{
+    font-size: 40px;
+    text-decoration: underline;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{  font-size: 19px;
+    font-family: sans-serif;
+    color: darkcyan;
+    font-style: italic;
 }
